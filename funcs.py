@@ -1,4 +1,5 @@
 def plus(a,b):
     return a+b
 
-#print(plus(6,7))
+def minus(a,b):
+    return a-b
